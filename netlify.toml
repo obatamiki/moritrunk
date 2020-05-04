@@ -6,4 +6,4 @@
 
 [build]
 publish = "public"
-command = "hugo --theme=tranquilpeak --buildDrafts --gc --minify"
+command = "hugo --theme=hugo-tranquilpeak-theme --buildDrafts --gc --minify"
